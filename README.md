@@ -1,5 +1,5 @@
 ## Adjust Project With Live Server
-cchange the url from http://127.0.0.1:5500/src/ to http://localhost:5500/src/ for authentication to work.
+Change the url from http://127.0.0.1:5500/src/ to http://localhost:5500/src/ for authentication to work.
 
 ## Use Project
 If going to src/index.html to run the project doesn't work, you should run the project with Live Server at http://127.0.0.1:5500/src/
